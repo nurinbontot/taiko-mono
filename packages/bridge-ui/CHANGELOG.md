@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.8.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v0.7.1...bridge-ui-v0.8.0) (2023-06-07)
+
+
+### Features
+
+* **bridge-ui:** add token to wallet ([#13902](https://github.com/taikoxyz/taiko-mono/issues/13902)) ([683b19c](https://github.com/taikoxyz/taiko-mono/commit/683b19cab30bf8c9c713e889f969336e04641187))
+* **bridge-ui:** update favicon ([#13913](https://github.com/taikoxyz/taiko-mono/issues/13913)) ([7b0976f](https://github.com/taikoxyz/taiko-mono/commit/7b0976fb7239826acc178b209126624634e90548))
+
+
+### Bug Fixes
+
+* **bridge-ui:** fix use max logic ([#13898](https://github.com/taikoxyz/taiko-mono/issues/13898)) ([1abc3ff](https://github.com/taikoxyz/taiko-mono/commit/1abc3ff1a83b8a87f3e40c498065743e40b4dfff))
+* **bridge-ui:** handle wrong bridge address ([#13880](https://github.com/taikoxyz/taiko-mono/issues/13880)) ([fe425d9](https://github.com/taikoxyz/taiko-mono/commit/fe425d90d39665ceaca7d6d5ca1b13e5369ebed5))
+* **bridge-ui:** inform connect when adding erc20 ([#13900](https://github.com/taikoxyz/taiko-mono/issues/13900)) ([2b21f59](https://github.com/taikoxyz/taiko-mono/commit/2b21f59b1171fcedfafb03cddadc5d950cf4c754))
+* **bridge-ui:** issue with decimals ([#13892](https://github.com/taikoxyz/taiko-mono/issues/13892)) ([fbed474](https://github.com/taikoxyz/taiko-mono/commit/fbed4746ec3c75972dca95238569af2a7054a5a1))
+
 ## [0.7.1](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v0.7.0...bridge-ui-v0.7.1) (2023-05-26)
 
 

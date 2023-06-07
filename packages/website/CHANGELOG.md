@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.9.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.8.0...website-v0.9.0) (2023-06-07)
+
+
+### Features
+
+* **website:** add updated ecosystem page ([#13887](https://github.com/taikoxyz/taiko-mono/issues/13887)) ([74fcbae](https://github.com/taikoxyz/taiko-mono/commit/74fcbaeba209533222c3a87dd2d9f786f6f5a136))
+* **website:** update branding, update blog posts, add vercel web analytics ([#13871](https://github.com/taikoxyz/taiko-mono/issues/13871)) ([46bae97](https://github.com/taikoxyz/taiko-mono/commit/46bae97c2e6fabe1ba9adb1f9626878e743df44d))
+* **website:** update proving docs ([#13915](https://github.com/taikoxyz/taiko-mono/issues/13915)) ([be7d275](https://github.com/taikoxyz/taiko-mono/commit/be7d2751e416df7bb3057c29ea629ebec5202ade))
+* **website:** update website with alpha-3 docs ([#13723](https://github.com/taikoxyz/taiko-mono/issues/13723)) ([95303a5](https://github.com/taikoxyz/taiko-mono/commit/95303a5461477620de4eb44092e0dce17489ecbb))
+
+
+### Bug Fixes
+
+* **protocol:** hash deposit IDs ([#13853](https://github.com/taikoxyz/taiko-mono/issues/13853)) ([d3aea36](https://github.com/taikoxyz/taiko-mono/commit/d3aea36ce715d45ba444dbc261a3efff4912e9b1))
+* **website:** fix broken links and remove deprecated pages ([#13840](https://github.com/taikoxyz/taiko-mono/issues/13840)) ([cce7ed7](https://github.com/taikoxyz/taiko-mono/commit/cce7ed7ddb9c76c6a749770acaa8034a6bc3594f))
+* **website:** token config ([#13914](https://github.com/taikoxyz/taiko-mono/issues/13914)) ([c7d91a2](https://github.com/taikoxyz/taiko-mono/commit/c7d91a2df65289687d6b13e4a64da24c223f98e4))
+
 ## [0.8.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.7.0...website-v0.8.0) (2023-05-26)
 
 
